@@ -1,0 +1,9 @@
+../Core/Src/main.c:109:6:normalize_sensors	16	static
+../Core/Src/main.c:122:6:read_ADC	16	static
+../Core/Src/main.c:142:6:pid	16	static
+../Core/Src/main.c:181:10:isOnBlack	16	static
+../Core/Src/main.c:193:6:determine_LED	16	static
+../Core/Src/main.c:238:6:go	8	static
+../Core/Src/main.c:251:5:main	16	static
+../Core/Src/main.c:323:6:SystemClock_Config	88	static
+../Core/Src/main.c:371:6:Error_Handler	4	static,ignoring_inline_asm
